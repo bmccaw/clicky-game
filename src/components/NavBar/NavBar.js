@@ -5,7 +5,7 @@ const Nav = props => (
     <NavBar>
         <h1>Zelda Clicky Game</h1>
         <h3>Click an image to begin!</h3>
-        <h3>Score: {props.score}| Top Score: {props.topscore}</h3>
+        <h3>Score: {props.score} | Top Score: {props.topscore}</h3>
     </NavBar>
 );
 
@@ -20,5 +20,6 @@ const NavBar = Styled.div`
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
     background-color: #2eb61f;
+    margin-bottom: 0;
 
 `
