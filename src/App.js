@@ -1,26 +1,34 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Nav from './components/NavBar/NavBar';
+import Wrapper from './components/Wrapper/Wrapper';
+import Card from './components/Card/Card';
+import cards from './cards.json';
+
 
 class App extends Component {
+
+  state = {
+    cards,
+    score: 0,
+    topscore: 0
+  }
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div>
+        <Nav score={this.state.score} topScore={this.state.topscore} />
+        <Wrapper>
+        {this.state.cards.map(card => (
+          <Card
+            clickCount={this.clickCount}
+            id={card.id}
+            key={card.id}
+            image={card.image}
+          />))}
+        </Wrapper>
       </div>
+
     );
   }
 }

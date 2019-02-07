@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Lens of Truth",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/b/b7/MM3D_Lens_of_Truth_Icon.png?version=2ece5d44115265946f0cdb0f3d85ddaa",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Gold Skulltulla",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/8/87/MM3D_Gold_Skulltula_Token_Icon.png?version=d5f7197c975b379fd9e8bc730a093054",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Heart Container",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/e/e8/MM3D_Heart_Container_Icon.png?version=503775d099a16bd238008ba53009ee35",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Ocarina of Time",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/3/3b/MM3D_Ocarina_of_Time_Icon.png?version=f3758f235b276620227b702aae6acdca",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Red Potion",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/b/bf/MM3D_Red_Potion_Icon.png?version=e7e7887707cd4153849edab31478499e",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Boomerang",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/6/60/OoT3D_Boomerang_Icon.png?version=efca35e69f64e040cb1f5fcf39dca968",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Fairy Bow",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/e/eb/OoT3D_Fairy_Bow_Icon.png?version=39f4f518c05c2eb2143e704850d289fa",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Longshot",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/c/c9/OoT3D_Longshot_Icon.png?version=b739e3df98e2672ccc68e652e0a45acf",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Master Sword",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/4/4b/OoT3D_Master_Sword_Icon.png?version=1655de1b51eb9fb79575bd4cd950666c",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Blue Fire",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/3/31/OoT3D_Blue_Fire_Icon.png?version=f08d517b620456b5c523e816b2f4e3ed",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Fairy in a Bottle",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/8/89/MM3D_Fairy_Icon.png?version=444bba4c0b7fba3428f54371a933b41d",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Boss Key",
+      "image": "https://gamepedia.cursecdn.com/zelda_gamepedia_en/d/db/OoT3D_Boss_Key_Icon.png?version=83143d13a095f4e8ddf520582e675d5f",
+      "count": 0
+    }
+  ]
