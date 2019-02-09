@@ -4,8 +4,8 @@ import Styled from 'styled-components';
 const Nav = props => (
     <NavBar>
         <h1>Zelda Clicky Game</h1>
-        <h3>Click an image to begin!</h3>
-        <h3>Score: {props.score} | Top Score: {props.topscore}</h3>
+        <h3>{props.children}</h3>
+        <h1>Score: {props.score} | Top Score: {props.topscore}</h1>
     </NavBar>
 );
 
@@ -20,6 +20,9 @@ const NavBar = Styled.div`
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
     background-color: #2eb61f;
+    box-shadow:0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    color:white;
     margin-bottom: 0;
+    font-family: 'Uncial Antiqua', cursive;
 
 `

@@ -14,12 +14,11 @@ const HeroDiv = Styled.div`
         margin-top: 0;
         background-image: url(deku-tree.jpg);
         background-attachment: fixed;
-        background-position: center;
+        background-position: center bottom;
         min-height:400px;
         display: flex;
         justify-content: center;
         flex-direction: column;
-        height: 400px;
           
 
         h1, h3 {
@@ -27,4 +26,5 @@ const HeroDiv = Styled.div`
             color: white;
             text-align:center;
             text-shadow: -1px 1px 5px rgba(100, 100, 100, 1);
+            
         }`;

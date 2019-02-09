@@ -13,7 +13,7 @@ const Card = props => (
 export default Card;
 
 const CardDiv = Styled.div `
-        width: 120px;
+        width: 150px;
         height:auto;
         margin:auto;
         padding: 10px;
@@ -37,8 +37,8 @@ const CardDiv = Styled.div `
         }
 
         img{
-            width:120px;
-            height:120px;
+            width:150px;
+            height:150px;
             margin:auto;
             image-rendering:pixelated;
             vertical-align:middle;

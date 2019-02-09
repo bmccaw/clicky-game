@@ -7,9 +7,10 @@ export default Wrapper;
 
 const WrapperDiv = Styled.div `
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 50px;
     grid-template-columns: repeat(4, 1fr);
-    margin-top: 20px;
     max-width: 75%;
     margin:auto;
+    margin-top:50px;
+    margin-bottom:50px;
     `
