@@ -12,7 +12,8 @@ class App extends Component {
   state = {
     cards,
     score: 0,
-    topscore: 0
+    topscore: 0,
+    navmessage: ""
   }
 
   gameOver = () => {

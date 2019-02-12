@@ -4,7 +4,7 @@ import Styled from 'styled-components';
 const Nav = props => (
     <NavBar>
         <h1>Zelda Clicky Game</h1>
-        <h3>{props.children}</h3>
+        <h3>{props.navmessage}</h3>
         <h1>Score: {props.score} | Top Score: {props.topscore}</h1>
     </NavBar>
 );
